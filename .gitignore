@@ -1,3 +1,6 @@
+# files that aren't intended to be included
+excludes/
+
 # Ansible retry files
 *.retry
 
