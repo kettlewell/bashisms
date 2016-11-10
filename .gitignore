@@ -1,4 +1,5 @@
 # files that aren't intended to be included
+ext/
 excludes/
 
 # Ansible retry files
