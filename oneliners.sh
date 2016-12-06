@@ -1,5 +1,12 @@
 #!/usr/bin/bash
 
+# show all information on the remote host, via ILO
+ssh admin@ilo-console show -a
+
+# find MAC addresses through ILO
+ssh admin@ilo-console show /system1/network1/Integrated_NICs
+
+
 # find switch port NIC is connected to
 sudo lldpctl eth1 |grep PortID
 
