@@ -1,0 +1,27 @@
+{
+ "hosts":[
+         {  "src_db":"db12345",
+            "domain":"",
+            "src_instance":"",
+            "target_db":"",
+            "target_instance":"",
+            "timezone":"",
+            "target_bkp":"",
+            "target_lun":"",
+            "bkp_config":"",
+            "bkp_admin":"",
+            "src_bkp":"",
+            "":"",
+            "":"",
+            "":"",
+            "":"",
+            "":"",
+         },
+         {"id":"blabla","iscategorical":"0"}
+        ],
+"masks":
+         {"id":"valore"},
+"om_points":"value",
+"parameters":
+         {"id":"valore"}
+}
