@@ -1,9 +1,13 @@
-# bashisms
-Yet Another Misnomer ... A repository of scripts, snippets, clips and oneliners in any language
+# SNIPS
+Just a collection of snippets of code and one-liners that I've acquired, or find
+useful in some way shape or form.
 
-This is likely useless to most people. It's just cobbled together collection of scripts that are likely specific to a particular task, and generally not generic enough for general consumption.
+This is likely useless to most people.
+
+It's just cobbled together collection of scripts that are likely specific to a
+particular task, and generally not generic enough for general consumption.
 
 I could probably put these into gists, but this just seemed easier at the time
 
-## NOTE TO SELF
-Rename this repo... something more descriptive, like scriptisms or snippets... snippets may be a descent way to go here
+I'll probably put these into org-mode files at some point for easier public
+consumption but I'm still on my org-mode learning path  :)
