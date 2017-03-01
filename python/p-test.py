@@ -23,16 +23,14 @@ try:
     print("after run_command")
     client.join(output)
     print(output)
-    
 
-    
+
+
     for host in output:
         for line in output[host]['stdout']:
             print("Host %s - output: %s" % (host, line))
-            
+
 
 except (AuthenticationException, UnknownHostException, ConnectionErrorException):
     print("exception...")
     pass
-
-

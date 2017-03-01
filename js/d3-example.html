@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="description" content="D3 Examples"/>
+
+    <title>SVG Basics</title>
+
+    <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <!-- <script src="d3-example.js" charset="utf-8"></script> -->
+
+  </head>
+  <body>
+<script>
+    var body = d3.select("body");
+    var div = body.append("div");
+    div.html("Hello, world!");
+
+    //var body = d3.select("body");
+    body.style("color", "yellow");
+    body.style("background-color", "red");
+
+d3.select("body").style("color", "blue").style("background-color","yellow");
+
+</script>
+
+
+  </body>
+</html>
